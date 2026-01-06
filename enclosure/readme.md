@@ -75,7 +75,7 @@ Magnets may be used to create a surprisingly good invisible door catch. Make sur
 > [!TIP]
 > Each [3D printed holder](./3DPrintFiles/MagnetHolder.3mf) is designed to have two magnets fitted, but the number may be adjusted to change the strength of the catch.
 
-![Door Magnets](./images/magentHolder.png)
+![Door Magnets](./images/MagentHolder.png)
 
 If you are concerned with the door being opened during operation and someone being injured, fit a lockable catch or a magnetic switch to trigger the [E-Stop](../estops/readme.md).
 

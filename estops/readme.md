@@ -32,7 +32,7 @@ As shown in the [Probe](../probes/readme.md#tool-setter-and-a-3d-touch-probe) se
 
 Below is a simple circuit that may be used to convert a NO connection to a NC connection and has support for multiple inputs. If multiple inputs are not required, simply remove them or use a jumper to permanently short them.
 
-![E-Stop Circuit](./images/estopCircuit.png)
+![E-Stop Circuit](./images/eStopCircuit.png)
 
 To connect the circuit to the Genmitsu you will have to open up the offline controller, or the main controller, and connect to the E-Stop pins. Both use a standard JST PH connector and if soldering directly to the PCB it not an option splitter cables may be found on AliExpress/eBay
 
